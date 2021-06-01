@@ -13,7 +13,8 @@ const google = new Scraper({
 
 function start(client) {
   client.onMessage(async message => {
-	if(message.body.startsWith('!')){
+      console.log(message.body)
+	if(message.body != null && message.body[0] == '!'){
 
 		let myPromise = new Promise(function(myResolve, myReject) {
 			(async () => {

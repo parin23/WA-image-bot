@@ -3,8 +3,9 @@
   "main": "./index.js",
   "module": "./main.js",
   "dependencies": {
-    "@open-wa/wa-automate": "^3.9.1",
+    "@open-wa/wa-automate": "^4.1.0",
     "images-scraper": "^6.0.1",
+    "npm": "^7.15.1",
     "promise": "^8.1.0"
   },
   "name": "wa-image-bot",
