@@ -15,7 +15,7 @@ Steps for Installation :
 
 Steps to run the bot :- 
 
- $ '''node index.js'''
+ $ '''node app.js'''
  
  You will be asked to scan a QR code.
  

@@ -1,0 +1,5 @@
+# Add files not to be tracked
+
+/logs
+session.data.json
+/node_modules
